@@ -1,0 +1,23 @@
+:root {
+    --bk-clr-pink: pink;
+}
+
+p {
+    background-color: var(--bk-clr-pink);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number2 {
+    font-size: 36px;
+    color: blue;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
